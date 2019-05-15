@@ -60,5 +60,6 @@
   },
   "exclude": [
     "node_modules"
-  ]
+  ],
+  "typeRoots": ["./images", "node_modules/@types"],
 }
